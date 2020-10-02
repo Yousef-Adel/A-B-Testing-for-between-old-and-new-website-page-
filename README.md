@@ -1,9 +1,9 @@
 # Analyze A/B Test Results
 ## Overview
-### The project conducted A/B testing of user conversions on an old and new wepage. 
+### The project conducted A/B testing of user conversions on an old and new wepage.
 ### Steps included:
-- Handling mismatched condition and page assignment 
-- Removing duplicate ids 
+- Handling mismatched conditions
+- Removing duplicate IDS in the dataset 
 - Hypothesis testing via bootstrapping and standard statistical tests, and multiple regression modelling.
 
 ## Statistical Analysis
