@@ -1,6 +1,14 @@
 # Analyze A/B Test Results
 ## Overview
 ### The project conducted A/B testing of user conversions on an old and new wepage.
+
+### The dateset attributes indcludes:
+- Unique used ID
+- Timestamp
+- Group (control and treatment)
+- landing page (old_page & new page)
+- converted (boolen)
+
 ### Steps included:
 - Handling mismatched conditions
 - Removing duplicate IDS in the dataset 
