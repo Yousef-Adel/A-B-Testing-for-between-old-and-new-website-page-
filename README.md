@@ -1,6 +1,6 @@
 # Analyze A/B Test Results
 ## Overview
-### The project conducted A/B testing of user conversions on an old and new wepage.
+### The project conducted A/B testing of user conversions on an old and new web page.
 
 ### The dateset attributes indcludes:
 - Unique used ID
